@@ -36,13 +36,10 @@
 
 Интересную работу с соответсвующей зарплатой
 
-Telegram: @taksenov
-
-E-mail: taksenov@gmail.com
-
-Phone: +7(922)204-92-27
-
-Skype: capitanbarboz
+- Telegram: @taksenov
+- E-mail: taksenov@gmail.com
+- Phone: +7(922)204-92-27
+- Skype: capitanbarboz
 
 ### Люблю
 
