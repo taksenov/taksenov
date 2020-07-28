@@ -20,17 +20,17 @@
 - Изучил гайдлайн по оптимизации reactjs [https://ru.reactjs.org/docs/optimizing-performance.html#virtualize-long-lists](https://ru.reactjs.org/docs/optimizing-performance.html#virtualize-long-lists) и пошел фигачить супер оптимизированный чат. В процессе:
   Решил около трех самых болезненных проблем по ишьюсам из библиотек [react-window](https://react-window.now.sh/) и [react-virtualized](https://bvaughn.github.io/react-virtualized/):
 
-- Рендер списка в обратном порядке.
-- Рендер сообщений разной высоты
-- Автоскроллинг листа, когда он обернут в HOC инфинит лоадера: InfiniteLoader.
-- ...
-- Before PROFIT: нашел у Брайана Вона (core team react member'а между прочим ;) ) косяк в issue на гитхабе [https://github.com/bvaughn/react-window/issues/324#issuecomment-664483174](https://github.com/bvaughn/react-window/issues/324#issuecomment-664483174)
-- ...
-- PROFIT: Получил много маны и экспы
+  - [x] Рендер списка в обратном порядке.
+  - [x] Рендер сообщений разной высоты
+  - [x] Автоскроллинг листа, когда он обернут в HOC инфинит лоадера: InfiniteLoader.
+  - [x] ...
+  - [x] Before PROFIT: нашел у Брайана Вона (core team react member'а между прочим ;) ) косяк в issue на гитхабе [https://github.com/bvaughn/react-window/issues/324#issuecomment-664483174](https://github.com/bvaughn/react-window/issues/324#issuecomment-664483174)
+  - [x] ...
+  - [x] PROFIT: Получил много маны и экспы
 
-Всего-то нужно было: три дня по 12 часов ресерча и написания кода.
+  Всего-то нужно было: три дня по 12 часов ресерча и написания кода.
 
-**В результате:** могу написать на реакте проект уровня [https://web.telegram.org/](https://web.telegram.org/)
+  **В результате:** могу написать на реакте проект уровня [https://web.telegram.org/](https://web.telegram.org/)
 
 ### Ищу
 
