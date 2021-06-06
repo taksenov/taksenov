@@ -8,6 +8,8 @@
 
 ### Сделал
 
+- В библиотеке Ramda есть линзы [https://ramdajs.com/docs/#lens](https://ramdajs.com/docs/#lens), а у Lodash их нет. Что за несправедливость, подумал я. И сделал линзы для Lodash [https://github.com/taksenov/lodash-simple-lens](https://github.com/taksenov/lodash-simple-lens)
+
 - TypeScript NodeJS приложение для поиска мертвого кода в проектах на React.js. Находит не используемые CSS классы, не используемые CSS-файлы в кодовой базе проекта. Ссылка на гитхаб-репозиторий: [https://github.com/taksenov/dead-code-finder](https://github.com/taksenov/dead-code-finder)
   (используемый стек: TypeScript, NodeJS, абстрактные синтаксические деревья, паттерн посетитель)
 
