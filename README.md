@@ -19,6 +19,8 @@
 
 ### Фигачу
 
+- Прочитал от корки до корки: Луис Атенсио "Функциональное программирование на JavaScript. Как улучшить код JavaScript-программ" и эта книга просто шедевр. Монады, функторы, лодаш и рамда стали очень близкими и понятными.
+
 - Изучил гайдлайн по оптимизации reactjs [https://ru.reactjs.org/docs/optimizing-performance.html#virtualize-long-lists](https://ru.reactjs.org/docs/optimizing-performance.html#virtualize-long-lists) и пошел фигачить супер оптимизированный чат. В процессе:
   Решил около трех самых болезненных проблем по ишьюсам из библиотек [react-window](https://react-window.now.sh/) и [react-virtualized](https://bvaughn.github.io/react-virtualized/):
 
