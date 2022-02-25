@@ -1,6 +1,6 @@
 # Аксенов Тимофей
 
-## Заслуженный фронтенд разработчик России, с макбуком и бородой
+## Заслуженный фронтенд разработчик ..., с макбуком и бородой
 
 ### Портфолио:
 
@@ -18,6 +18,8 @@
 - Мое видео на youtube-канале Loftblog по использованию конечных автоматов в React.js [https://youtu.be/AfsEk4yhjko](https://youtu.be/AfsEk4yhjko)
 
 ### Фигачу
+
+- Погружаюсь в мир мореплавания, да прибудет со мной "Kubernetes для DevOps".
 
 - Прошел курс "Алгоритмы: теория и практика. Методы" на степике [https://stepik.org/course/217/](https://stepik.org/course/217/), получил сертификат: [https://stepik.org/cert/1198982](https://stepik.org/cert/1198982) с результатом лучше, чем у `101 969` учащихся курса.
 
@@ -44,7 +46,6 @@
 
 - Telegram: [@taksenov](https://t.me/taksenov)
 - E-mail: [taksenov@gmail.com](mailto:taksenov@gmail.com)
-- Phone: [+7(922)204-92-27](tel:+79222049227)
 - Skype: [capitanbarboz](skype:capitanbarboz)
 
 ### Люблю
